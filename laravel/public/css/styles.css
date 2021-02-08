@@ -1,0 +1,7 @@
+@import "material-icons/material-icons.css";
+@import "nav/navigation.css";
+@import "hero/hero.css";
+body {
+  margin: 0 auto;
+  background-color: white;
+}

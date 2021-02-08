@@ -13,9 +13,10 @@
 
     <!-- here's our link to our generic stylesheet -->
     <link rel="stylesheet" href="{{ URL::asset('css/styles.css') }}">
+    <!-- can also use URL::to but I think it's more common to use URL::asset -->
     <!-- Using a facade above to pull in the CSS from its spot no matter how that path changes -->
 
-    <title>0</title>
+    <title>Pizza, Piya!</title>
 
 
 </head>
